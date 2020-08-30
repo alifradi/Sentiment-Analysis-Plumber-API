@@ -30,8 +30,8 @@
 4- Set URL to "http://127.0.0.1:8000/GLM" for Sentiment Polarity and "http://127.0.0.1:8000/LR" for Sentiment Intensity
 5- Hit "Send"
 
-![Sentiment Polarity](img/GLM.png)
-![Sentiment Intensity](img/LR.png)
+![Sentiment Polarity](img/GLM.PNG)
+![Sentiment Intensity](img/LR.PNG)
 
 **Screenshot:**
 
