@@ -23,6 +23,16 @@
 ![Reticulate package](img/reticulate.png)
 
 
+**How to reproduce**
+1- Download Postman ![From here](https://dl.pstmn.io/download/latest/win64)
+2- Run the script 'run_api.R'
+3- Copy 'RawText.json' into the body of POST request select raw and JSON options!
+4- Set URL to "http://127.0.0.1:8000/GLM" for Sentiment Polarity and "http://127.0.0.1:8000/LR" for Sentiment Intensity
+5- Hit "Send"
+
+![Sentiment Polarity](img/GLM.png)
+![Sentiment Intensity](img/LR.png)
+
 **Screenshot:**
 
 
